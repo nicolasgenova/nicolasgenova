@@ -10,7 +10,7 @@ Olá 👋, meu nome é Nicolas Genova!
 
 🔍 Buscando sempre evoluir com boas práticas, foco em qualidade de código e aprendizado contínuo.
 
-📫 Você pode entrar em contato comigo pelo e-mail: **[seu-email-aqui@email.com]**
+📫 Você pode entrar em contato comigo pelo e-mail: **[nicolas71ggenova@outlook.com]**
 
 ---
 
