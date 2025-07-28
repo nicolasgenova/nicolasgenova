@@ -1,4 +1,4 @@
-Olá 👋, meu nome é Nicolas Genova!
+Olá 👋, meu nome é Nicolas de Gênova!
 
 🎓 Técnico em Desenvolvimento de Sistemas formado pela [ETEC Prof. Eudécio Luiz Vicente](https://etec.sp.gov.br/)  
 🧪 Atuei como QA/Tester de Software por 2 anos e 4 meses, com foco em testes manuais e validação de funcionalidades  
